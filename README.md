@@ -11,3 +11,7 @@ dotnet run
 ## License
 
 MIT
+
+---
+
+_Last updated: January 21, 2022_
