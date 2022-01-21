@@ -14,4 +14,4 @@ MIT
 
 ---
 
-_Last updated: August 5, 2026_
+_Last updated: January 21, 2022_
